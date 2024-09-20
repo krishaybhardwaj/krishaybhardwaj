@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @krishaybhardwaj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me - krishay.bh@gmail.com
 
 <!---
 krishaybhardwaj/krishaybhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
